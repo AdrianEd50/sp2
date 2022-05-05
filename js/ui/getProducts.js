@@ -1,4 +1,4 @@
-import { retriveCartFav } from "./utils/favouriteCartFunction.js";
+//import { retriveCartFav } from "./utils/favouriteCartFunction.js";
 
 export function getProducts(productsToGet) {
   const conteiner = document.querySelector(".products-conteiner");
